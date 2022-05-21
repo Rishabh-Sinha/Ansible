@@ -1,0 +1,12 @@
+---
+  - name: "New Play"
+   hosts: localhost
+
+   tasks:
+     - name: "rechability"
+       ping:
+
+     - name: "install stress"
+       homebrew:
+         name: stress
+         state: present
