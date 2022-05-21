@@ -1,9 +1,10 @@
 ---
   - name: "New Play"
-    hosts: "localhost"
+    hosts: localhost
 
-   tasks:
-     - name: "rechability"
+    tasks:
+   
+     - name: " test rechability"
        ping:
 
      - name: "install stress"
