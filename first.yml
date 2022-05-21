@@ -1,6 +1,6 @@
 ---
   - name: "New Play"
-    hosts: localhost
+    hosts: "localhost"
 
    tasks:
      - name: "rechability"
