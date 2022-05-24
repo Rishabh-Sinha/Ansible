@@ -1,6 +1,6 @@
 ---
 - name: "Challange answers"
-    hosts: localhost
+  hosts: localhost
 
     tasks:
 
