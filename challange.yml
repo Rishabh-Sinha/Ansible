@@ -1,3 +1,4 @@
+---
 - name: "Challange answers"
     hosts: localhost
 
